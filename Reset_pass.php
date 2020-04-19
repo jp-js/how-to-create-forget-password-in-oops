@@ -1,4 +1,4 @@
-<?php include('includes/connection.php');
+<?php include('connection.php');
 session_start();
 $id = $_GET['MnoQtyPXZORTE'];
 $message = $Home = '';
